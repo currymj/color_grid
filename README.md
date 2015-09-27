@@ -1,0 +1,1 @@
+Running this is pretty simple. Type text, hit enter; after 3 words have been entered, a grid will appear. Press enter again to save the image (with a filename consisting of the text you entered) and clear the display. Repeat.
